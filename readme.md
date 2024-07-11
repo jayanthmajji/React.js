@@ -1,1 +1,1 @@
-Starting learning React.js course
+Started learning React.js course
